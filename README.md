@@ -175,7 +175,7 @@ Customer-Shopping-Behavior-Analysis/
 └── README.md
 ```
 
-*Note: The SQL file, Power BI file, and dashboard screenshot should be added to the repository if you have created them.*
+
 
 ## Conclusion
 
